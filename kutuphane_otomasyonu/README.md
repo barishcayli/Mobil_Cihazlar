@@ -1,6 +1,6 @@
 # kutuphane_otomasyonu
 
-A new Flutter project.
+Barış Çaylı Kütüphane Otomasyonu.
 
 ## Getting Started
 
